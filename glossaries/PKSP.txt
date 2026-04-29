@@ -1,6 +1,6 @@
-版本号：0.0.1.1
-维护者：CuSO4-ouo
-更新时间：2026-04-29
+版本号:0.0.1.2
+维护者:CuSO4-ouo
+更新时间:2026-04-29
 
 //目前只更新到城都地區的且可能缺很多!(很懶)
 
@@ -34,6 +34,7 @@ Bill:正輝
 //關都 - 地名
 
 Kanto:關都
+Kanto Region:關都地區
 Pallet Town:真新鎮
 Viridian:常青市
 Viridian Forest:常青森林
@@ -91,6 +92,8 @@ Eusine:水京
 
 //城都 - 地名
 
+Johto:城都
+Johto Region:城都地區
 New Bark Town:若葉鎮
 Cherrygrove City:吉花市
 Violet City:桔梗市
@@ -116,3 +119,8 @@ Gyarados Lak:暴鯉龍之湖
 Blackthorn City:煙墨市
 Embedded Tower:埋藏之塔
 Mt. Silver:白銀山
+
+//豐緣 - 人物
+
+
+
