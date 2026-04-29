@@ -1,0 +1,118 @@
+版本号：0.0.1
+维护者：CuSO4-ouo
+更新时间：2026-04-29
+
+//目前只更新到城都(很懶)
+
+TERMS
+
+//關都 -人物
+
+Red:赤紅
+Green:青綠
+Blue:碧藍
+Yellow:小洛
+Professor Oak:大木博士
+Samuel Oak:大木雪成
+Daisy Oak:奈奈美
+Brock:小剛
+Misty:小霞
+Surge:馬志士
+Lt. Surge:馬志士
+Erika:莉佳
+Koga:阿桔
+Janine:阿杏
+Sabrina:娜姿
+Blaine:夏伯
+Giovanni:版木
+Lorelei:科拿
+Bruno:希巴
+Agatha:菊子
+Lance:阿渡
+Bill:正輝
+
+//關都 - 地名
+
+Kanto:關都
+Pallet Town:真新鎮
+Viridian:常青市
+Viridian Forest:常青森林
+Pewter City:深灰市
+Mt. Moon:月見山
+Cerulean City:華藍市
+Cerulean Cave:華藍洞窟
+Diglett's Cave:地鼠洞穴
+Vermilion City:枯葉市
+Rock Tunnel:岩山隧道
+Lavender Town:紫苑鎮
+Pokémon Tower:寶可夢塔
+Celadon City:玉虹市
+Celadon Game Corner:玉虹遊戲城
+Saffron City:金黃市
+Silph Co.:西爾弗公司
+Fuchsia City:淺紅市
+Safari Zone:狩獵地帶
+Cinnabar Island:紅蓮鎮
+Seafoam Islands:雙子島
+Pokémon Mansion:寶可夢屋
+Indigo Plateau:石英高原
+Sevii Islands:七之島
+
+//城都 - 人物
+
+Gold:阿金
+Silver:小銀
+Crystal:克麗絲塔兒
+Crys:克麗絲
+Professor Elm:空木博士
+Falkner:阿速
+Bugsy:阿筆
+Whitney:小茜
+Maizie:千惠
+Morty:松葉
+Chuck:阿四
+Jasmine:阿蜜
+Pryce:柳伯
+Clair:小椿
+Will:一樹
+Karen:梨花
+Palmer:桄榔
+Thorton:捩木
+Dahlia:大麗
+Darach:石蘭
+Argenta:青葙
+Mary:胡桃
+Emerald:米拉特
+Masked Man:假面男
+Maizie:千惠
+Kurt:鋼鐵
+Walker:速天
+Eusine:水京
+
+//城都 - 地名
+
+New Bark Town:若葉鎮
+Cherrygrove City:吉花市
+Violet City:桔梗市
+Sprout Tower:喇叭芽之塔
+Union Cave:互連洞
+Ruins of Alph:阿露福遺跡
+Azalea Town:檜皮鎮
+Ilex Forest:櫟樹林
+Slowpoke Well:呆呆獸之井
+Goldenrod City:滿金市
+Goldenrod Game Corner:滿金遊戲城
+Radio Tower:播音塔
+Ecruteak City:緣朱市
+Bell Tower:鈴鐺塔
+Olivine City:淺蔥市
+Battle Tower:對戰塔
+Cianwood City:湛藍市
+Whirl Islands:漩渦島
+Mt. Mortar:擂鉢山
+Mahogany Town:卡吉鎮
+Lake of Rage:憤怒之湖
+Gyarados Lak:暴鯉龍之湖
+Blackthorn City:煙墨市
+Embedded Tower:埋藏之塔
+Mt. Silver:白銀山
