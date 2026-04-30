@@ -1,8 +1,8 @@
-版本号:0.0.1.2
+版本号:0.0.1.3
 维护者:CuSO4-ouo
 更新时间:2026-04-29
 
-//目前只更新到城都地區的且可能缺很多!(很懶)
+//可能缺很多!(很懶)
 
 TERMS
 
@@ -122,5 +122,30 @@ Mt. Silver:白銀山
 
 //豐緣 - 人物
 
-
-
+Ruby:路比
+Sapphire:莎菲雅
+Wally:滿充
+Professor Birch:小田卷博士
+Roxanne:杜娟
+Brawly:藤樹
+Wattson:鐵旋
+Flannery:亞莎
+Norman:千里
+Winona:娜琪
+Tate:小楓
+Liza:小南
+Wallace:米可利
+Juan:亞當
+Sidney:花月
+Phoebe:芙蓉
+Glacia:波妮
+Drake:源治
+Steven:大吾
+Steven Stone = 大吾
+Wallace:米可利
+Noland:達拉
+Greta:黃瓜香
+Lucy:小薊
+Spenser:鬱金
+Anabel:莉拉
+Brandon:神代
