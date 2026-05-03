@@ -1,4 +1,4 @@
-版本号:0.0.1.3.3
+版本号:0.0.1.4
 维护者:CuSO4-ouo
 更新时间:2026-04-29
 
@@ -69,6 +69,7 @@ Crys:克麗絲
 Lyra:琴音
 Ethan:阿響
 Professor Elm:空木博士
+Elm = 空木
 Falkner:阿速
 Bugsy:阿筆
 Whitney:小茜
